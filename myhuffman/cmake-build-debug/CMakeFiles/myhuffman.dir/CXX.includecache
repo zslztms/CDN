@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/HuffmanTree.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+HuffmanTree.h
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/HuffmanTree.h
+Queue.h
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/Queue.h
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/HuffmanTree.h
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/Queue.h
+

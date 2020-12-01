@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/yinhang/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdint.h
+-
+

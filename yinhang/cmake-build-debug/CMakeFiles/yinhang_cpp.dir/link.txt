@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/yinhang_cpp.dir/main.cpp.o  -o yinhang_cpp 

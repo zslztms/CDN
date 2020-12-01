@@ -1,0 +1,3 @@
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/myhuffman/cmake-build-debug/CMakeFiles/myhuffman.dir
