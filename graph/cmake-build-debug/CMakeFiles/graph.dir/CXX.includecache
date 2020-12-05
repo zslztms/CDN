@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/graph/main.cpp
+mgraph.h
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/graph/mgraph.h
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/graph/mgraph.cpp
+mgraph.h
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/graph/mgraph.h
+
+/home/wxxxx/桌面/clion-2020.2.4/CLionProjects/graph/mgraph.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+
